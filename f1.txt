@@ -1,0 +1,12 @@
+ 
+
+Le volume dans le lecteur C s'appelle Windows
+ Le num‚ro de s‚rie du volume est D8E2-BC36
+
+ R‚pertoire de C:\dvpt\git_prj
+
+13-02-21  11:07    <DIR>          .
+13-02-21  11:07    <DIR>          ..
+13-02-21  11:07                 0 f1.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)  313.821.712.384 octets libres
